@@ -21,8 +21,10 @@ Secure coding and remediation practices
 
 📂 Report
 
-📄 SQL Injection Lab Report (PDF)
-➡️ reports/SQL_Injection_Lab_Report.pdf
+📄 SQL Injection Lab Report 
+
+➡️ [SQL Injection   Vulnerability Assessment.pdf](https://github.com/user-attachments/files/24413946/SQL.Injection.Vulnerability.Assessment.pdf)
+
 
 ⚠️ Disclaimer
 
