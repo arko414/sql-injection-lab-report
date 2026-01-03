@@ -1,7 +1,3 @@
-# sql-injection-lab-report
-Lab-based SQL Injection learning report using PortSwigger Web Security Academy
-
-
 🛡️ SQL Injection Lab Report
 
 This repository contains a lab-based SQL Injection learning report
@@ -25,9 +21,10 @@ Secure coding and remediation practices
 
 📂 Report
 
-📄  SQL Injection Vulnerability Assessment 
-➡️ SQL Injection   Vulnerability Assessment.pdf          
-https://github.com/arko414/sql-injection-lab-report/blob/main/SQL%20Injection%20%20%20Vulnerability%20Assessment.pdf
+📄 SQL Injection Lab Report 
+
+➡️ SQL Injection Vulnerability Assessment.pdf 
+
 
 ⚠️ Disclaimer
 
